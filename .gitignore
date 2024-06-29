@@ -1,0 +1,46 @@
+# Ambiente virtual
+.venv/
+venv/
+nv/
+# Cache do Python
+__pycache__/
+
+# Logs
+*.log
+
+
+# Sistema operacional
+Thumbs.db
+
+#Ambiente virtual
+.venv/
+venv/
+env/
+
+#Configurações do workspace
+
+.vscode/
+
+#Extensões
+
+.extensions/
+
+#Arquivos de backup
+
+.code-workspace
+.bak
+.swp
+
+#Credenciais e tokens
+
+*.env
+*.ini
+*.key
+*.pem
+
+# Outros
+*.bak
+*.pyc
+*.egg-info/
+dist/
+build/
